@@ -50,3 +50,8 @@
 [Alfred插件下载](https://github.com/goodbest/Alfred_Workflow_Music163/blob/master/Music163_alfred_workflow_v0.5.alfredworkflow?raw=true)
 
 [Github Repo](https://github.com/goodbest/Alfred_Workflow_Music163)
+
+
+## Licensing, thanks ##
+
+This workflow uses the [Alfred-Workflow](http://www.deanishe.net/alfred-workflow/) library and some code from [yanunon](https://github.com/yanunon/NeteaseCloudMusic)
